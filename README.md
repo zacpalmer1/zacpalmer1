@@ -1,4 +1,4 @@
-Hello there! My name is Zac Palmer a Computer Science student at College of Charleston
+Hello there! My name is Zac Palmer, I'm Computer Science student at College of Charleston. Here is a bit about me:
 - 📱 I’m currently working on developing Mobile Applications for Android
 - 💡 I'm currently learning Swift, Kotlin, Next.js, and TailwindCSS
 - 📫 Email: zactpalmer1@gmail.com
