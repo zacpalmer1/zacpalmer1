@@ -1,5 +1,5 @@
 ## Hey there! Im Zac Palmer a Computer Science student at College of Charleston. Here is a bit about me:
-- 📱 I’m currently working on developing Mobile Applications for Android
+- 📱 My current passion is developing Mobile Applications for Android
 - 💡 I'm currently learning Swift, Kotlin, Next.js, and TailwindCSS
 - 📫 Email: zactpalmer1@gmail.com
 - 📨 Resume: [Resume_Zac_Palmer.pdf](https://github.com/zacpalmer1/zacpalmer1/files/11106042/Resume_Zac_Palmer.pdf)
